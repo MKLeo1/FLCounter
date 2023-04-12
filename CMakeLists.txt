@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.16.3)
 project(FLCounter)
 
-set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_STANDARD 17)
 
 set(CMAKE_VERBOSE_MAKEFILE ON)
 set(Boost_USE_STATIC_LIBS OFF)
